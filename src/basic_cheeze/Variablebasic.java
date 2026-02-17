@@ -5,12 +5,9 @@ public class Variablebasic {
         int x ; // declaration
         x = 5; //initization
         System.out.println(x);
-
-        x = 20; // initization
+        x = x + 7;
         System.out.println(x);
-        System.out.println("ch" +
-                "");
+        x = x - 24;
         System.out.println(x);
-
     }
 }
