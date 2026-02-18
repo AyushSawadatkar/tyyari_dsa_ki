@@ -6,7 +6,7 @@ public class UserInput {
     static void main() {
         Scanner sc = new Scanner(System.in);
 
-        double r = sc.nextInt();
+        double r = sc.nextDouble();
         double a = 3.1415 * r * r;
         System.out.println(a);
 
