@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class UserInput {
     static void main() {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);// input lene keliye
 
         double r = sc.nextDouble();
         double a = 3.1415 * r * r;
