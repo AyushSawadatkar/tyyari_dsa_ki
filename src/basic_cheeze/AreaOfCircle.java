@@ -1,7 +1,5 @@
 package basic_cheeze;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class AreaOfCircle {
     static void main() {
         //area kya hota hai? pi r square
