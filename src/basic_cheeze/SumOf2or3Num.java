@@ -13,6 +13,7 @@ public class SumOf2or3Num {
 
         System.out.print("Enter the num3 :");
         int c = sc.nextInt();
+
         int d = a * b * c;
 
         System.out.print("Answer is :");
