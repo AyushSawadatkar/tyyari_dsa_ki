@@ -31,5 +31,9 @@ public class IncrementDecrement {
         z--;
         System.out.println(z);
 
+        int p = 10;
+        int q = p++; //q = 11
+        System.out.println(p+" "+q);
+
     }
 }
